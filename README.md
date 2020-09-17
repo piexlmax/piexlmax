@@ -1,24 +1,16 @@
 ### Hi there 👋
 
 <!--
-**zouyx/zouyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**piexlmax/piexlmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+ -->
+- 🔭 I’m currently working on golang
+- 👯 I’m looking to collaborate on gin-vue-admin
+- 🤔 I’m looking for help with gin-vue-admin ui
+- 📫 How to reach me: weChat:shouzi_1994
+- 😄 Pronouns: MR.奇淼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-* 🤔 Apache Committer.
-* 😄 Concentrate on distribution service.
-* 📫 joezou@apache.org || https://zouyx.github.io/about/.
-* ✨ Now looking for a long long ............................. vacation.
-
-![zouyx's github stats](https://github-readme-stats.vercel.app/api?username=zouyx&show_icons=true&theme=radical)
+![zouyx's github stats](https://github-readme-stats.vercel.app/api?username=piexlmax&show_icons=true&theme=radical)
 # piexlmax
