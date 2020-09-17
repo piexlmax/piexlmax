@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: MR.奇淼
 
 
-![zouyx's github stats](https://github-readme-stats.vercel.app/api?username=flipped-aurora&show_icons=true&theme=radical)
+![piexlmax's github stats](https://github-readme-stats.vercel.app/api?username=piexlmax&show_icons=true&theme=radical)
 
